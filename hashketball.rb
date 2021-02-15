@@ -74,7 +74,7 @@ def game_hash
           assists: 1,
           steals: 2,
           blocks: 7,
-          slam_dunks: 2 
+          slam_dunks: 2
           },
           {
             player_name: "Bismack Biyombo",
@@ -85,7 +85,7 @@ def game_hash
             assists: 7,
             steals: 22,
             blocks: 15,
-            slam_dunks: 10 
+            slam_dunks: 10
           },
           {
             player_name: "DeSagna Diop",
@@ -107,7 +107,7 @@ def game_hash
             assists: 2,
             steals: 1,
             blocks: 1,
-            slam_dunks: 0 
+            slam_dunks: 0
           },
           {
             player_name: "Kemba Walker",
@@ -118,7 +118,7 @@ def game_hash
             assists: 12,
             steals: 7,
             blocks: 5,
-            slam_dunks: 12 
+            slam_dunks: 12
           }
         ]
     }
